@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="torserver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/torserver_jar</output-path>
+    <root id="archive" name="torserver.jar">
+      <element id="module-output" name="torserver" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/T0rlib4j-1.0.2-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/java-json.jar/java-json.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
